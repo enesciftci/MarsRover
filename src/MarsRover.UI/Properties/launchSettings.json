@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MarsRover.UI": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
